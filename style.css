@@ -7,8 +7,6 @@ body{
     width:800px; 
     margin-left:auto;
     margin-right: auto;
-    font-family:Roboto;
-    font-weight: 200;
 }
 
 h1{
@@ -23,11 +21,13 @@ h1{
 
 p{
   color: black;
-  font-family:Roboto;
-  font-weight: 200;
 }
 
 div{
 	margin-left:50%;
 }
+
+  html {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+  }
 
