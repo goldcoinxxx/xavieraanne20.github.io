@@ -5,7 +5,8 @@ header{
 
 body{
     width:800px; 
-    margin:0 auto;
+    margin-left:50%;
+    margin-right: 50%;
 }
 
 h1{
@@ -13,7 +14,7 @@ h1{
 }
 
 .img-circle{
-	border-radius: 50%;
+	border-radius: 100%;
 	width: 50%;
 	height: auto;
 
