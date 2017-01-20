@@ -7,7 +7,8 @@ body{
     width:800px; 
     margin-left:auto;
     margin-right: auto;
-    font-family: myFirstFont;
+    font-family:Roboto;
+    font-weight: 200;
 }
 
 h1{
@@ -21,11 +22,8 @@ h1{
 }
 
 p{
-    color: black;
-}
-
-@font-face {
-   font-family: myFirstFont;
-   src: url(sansation_light.woff);
+  color: black;
+  font-family:Roboto;
+  font-weight: 200;
 }
 
